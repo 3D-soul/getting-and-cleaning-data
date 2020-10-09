@@ -1,7 +1,4 @@
----
-title: "My Data Cleaning Process"
-output: html_document
----
+# My Data Cleaning Process #
 
 
 The <b>run_analysis.R</b> script performs the data cleaning as described in project's definiton.
